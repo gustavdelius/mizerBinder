@@ -1,0 +1,4 @@
+Type: Compendium
+Package: mizerBinder
+Version: 0.1.0
+Depends: mizer, mizerExperimental, tidyverse, plotly, ggplot2
